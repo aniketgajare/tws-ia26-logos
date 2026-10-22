@@ -1,0 +1,2007 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<title>Great Plains Fire Science Exchange</title>
+<meta name='robots' content='max-image-preview:large' />
+<!-- TERMAGEDDON + USERCENTRICS -->
+<link rel="preconnect" href="//privacy-proxy.usercentrics.eu">
+<link rel="preload" href="//privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js" as="script">
+<script type="application/javascript" src="//privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js"></script>
+<script>uc.setCustomTranslations('https://termageddon.ams3.cdn.digitaloceanspaces.com/translations/');</script>
+<script id="usercentrics-cmp" src="//web.cmp.usercentrics.eu/ui/loader.js" data-settings-id="42HnFQKXEft710" async></script>
+<!-- END TERMAGEDDON + USERCENTRICS -->
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Great Plains Fire Science Exchange &raquo; Feed" href="https://gpfirescience.org/feed/" />
+<link rel="alternate" type="text/calendar" title="Great Plains Fire Science Exchange &raquo; iCal Feed" href="https://gpfirescience.org/events/?ical=1" />
+<link rel="preload" href="https://gpfirescience.org/wp-content/plugins/bb-plugin/fonts/fontawesome/7.2.0/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://gpfirescience.org/wp-content/plugins/bb-plugin/fonts/fontawesome/7.2.0/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://gpfirescience.org/wp-content/plugins/bb-plugin/fonts/fontawesome/7.2.0/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--fl-heading-text: #c63e27;--wp--preset--color--fl-body-bg: #ffffff;--wp--preset--color--fl-body-text: #000000;--wp--preset--color--fl-accent: #9e321f;--wp--preset--color--fl-accent-hover: #de7240;--wp--preset--color--fl-topbar-bg: #ffffff;--wp--preset--color--fl-topbar-text: #000000;--wp--preset--color--fl-topbar-link: #428bca;--wp--preset--color--fl-topbar-hover: #428bca;--wp--preset--color--fl-header-bg: #ffffff;--wp--preset--color--fl-header-text: #000000;--wp--preset--color--fl-header-link: #428bca;--wp--preset--color--fl-header-hover: #428bca;--wp--preset--color--fl-nav-bg: #ffffff;--wp--preset--color--fl-nav-link: #428bca;--wp--preset--color--fl-nav-hover: #428bca;--wp--preset--color--fl-content-bg: #ffffff;--wp--preset--color--fl-footer-widgets-bg: #ffffff;--wp--preset--color--fl-footer-widgets-text: #000000;--wp--preset--color--fl-footer-widgets-link: #428bca;--wp--preset--color--fl-footer-widgets-hover: #428bca;--wp--preset--color--fl-footer-bg: #ffffff;--wp--preset--color--fl-footer-text: #000000;--wp--preset--color--fl-footer-link: #428bca;--wp--preset--color--fl-footer-hover: #428bca;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-fl-heading-text-color{color: var(--wp--preset--color--fl-heading-text) !important;}.has-fl-body-bg-color{color: var(--wp--preset--color--fl-body-bg) !important;}.has-fl-body-text-color{color: var(--wp--preset--color--fl-body-text) !important;}.has-fl-accent-color{color: var(--wp--preset--color--fl-accent) !important;}.has-fl-accent-hover-color{color: var(--wp--preset--color--fl-accent-hover) !important;}.has-fl-topbar-bg-color{color: var(--wp--preset--color--fl-topbar-bg) !important;}.has-fl-topbar-text-color{color: var(--wp--preset--color--fl-topbar-text) !important;}.has-fl-topbar-link-color{color: var(--wp--preset--color--fl-topbar-link) !important;}.has-fl-topbar-hover-color{color: var(--wp--preset--color--fl-topbar-hover) !important;}.has-fl-header-bg-color{color: var(--wp--preset--color--fl-header-bg) !important;}.has-fl-header-text-color{color: var(--wp--preset--color--fl-header-text) !important;}.has-fl-header-link-color{color: var(--wp--preset--color--fl-header-link) !important;}.has-fl-header-hover-color{color: var(--wp--preset--color--fl-header-hover) !important;}.has-fl-nav-bg-color{color: var(--wp--preset--color--fl-nav-bg) !important;}.has-fl-nav-link-color{color: var(--wp--preset--color--fl-nav-link) !important;}.has-fl-nav-hover-color{color: var(--wp--preset--color--fl-nav-hover) !important;}.has-fl-content-bg-color{color: var(--wp--preset--color--fl-content-bg) !important;}.has-fl-footer-widgets-bg-color{color: var(--wp--preset--color--fl-footer-widgets-bg) !important;}.has-fl-footer-widgets-text-color{color: var(--wp--preset--color--fl-footer-widgets-text) !important;}.has-fl-footer-widgets-link-color{color: var(--wp--preset--color--fl-footer-widgets-link) !important;}.has-fl-footer-widgets-hover-color{color: var(--wp--preset--color--fl-footer-widgets-hover) !important;}.has-fl-footer-bg-color{color: var(--wp--preset--color--fl-footer-bg) !important;}.has-fl-footer-text-color{color: var(--wp--preset--color--fl-footer-text) !important;}.has-fl-footer-link-color{color: var(--wp--preset--color--fl-footer-link) !important;}.has-fl-footer-hover-color{color: var(--wp--preset--color--fl-footer-hover) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-fl-heading-text-background-color{background-color: var(--wp--preset--color--fl-heading-text) !important;}.has-fl-body-bg-background-color{background-color: var(--wp--preset--color--fl-body-bg) !important;}.has-fl-body-text-background-color{background-color: var(--wp--preset--color--fl-body-text) !important;}.has-fl-accent-background-color{background-color: var(--wp--preset--color--fl-accent) !important;}.has-fl-accent-hover-background-color{background-color: var(--wp--preset--color--fl-accent-hover) !important;}.has-fl-topbar-bg-background-color{background-color: var(--wp--preset--color--fl-topbar-bg) !important;}.has-fl-topbar-text-background-color{background-color: var(--wp--preset--color--fl-topbar-text) !important;}.has-fl-topbar-link-background-color{background-color: var(--wp--preset--color--fl-topbar-link) !important;}.has-fl-topbar-hover-background-color{background-color: var(--wp--preset--color--fl-topbar-hover) !important;}.has-fl-header-bg-background-color{background-color: var(--wp--preset--color--fl-header-bg) !important;}.has-fl-header-text-background-color{background-color: var(--wp--preset--color--fl-header-text) !important;}.has-fl-header-link-background-color{background-color: var(--wp--preset--color--fl-header-link) !important;}.has-fl-header-hover-background-color{background-color: var(--wp--preset--color--fl-header-hover) !important;}.has-fl-nav-bg-background-color{background-color: var(--wp--preset--color--fl-nav-bg) !important;}.has-fl-nav-link-background-color{background-color: var(--wp--preset--color--fl-nav-link) !important;}.has-fl-nav-hover-background-color{background-color: var(--wp--preset--color--fl-nav-hover) !important;}.has-fl-content-bg-background-color{background-color: var(--wp--preset--color--fl-content-bg) !important;}.has-fl-footer-widgets-bg-background-color{background-color: var(--wp--preset--color--fl-footer-widgets-bg) !important;}.has-fl-footer-widgets-text-background-color{background-color: var(--wp--preset--color--fl-footer-widgets-text) !important;}.has-fl-footer-widgets-link-background-color{background-color: var(--wp--preset--color--fl-footer-widgets-link) !important;}.has-fl-footer-widgets-hover-background-color{background-color: var(--wp--preset--color--fl-footer-widgets-hover) !important;}.has-fl-footer-bg-background-color{background-color: var(--wp--preset--color--fl-footer-bg) !important;}.has-fl-footer-text-background-color{background-color: var(--wp--preset--color--fl-footer-text) !important;}.has-fl-footer-link-background-color{background-color: var(--wp--preset--color--fl-footer-link) !important;}.has-fl-footer-hover-background-color{background-color: var(--wp--preset--color--fl-footer-hover) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-fl-heading-text-border-color{border-color: var(--wp--preset--color--fl-heading-text) !important;}.has-fl-body-bg-border-color{border-color: var(--wp--preset--color--fl-body-bg) !important;}.has-fl-body-text-border-color{border-color: var(--wp--preset--color--fl-body-text) !important;}.has-fl-accent-border-color{border-color: var(--wp--preset--color--fl-accent) !important;}.has-fl-accent-hover-border-color{border-color: var(--wp--preset--color--fl-accent-hover) !important;}.has-fl-topbar-bg-border-color{border-color: var(--wp--preset--color--fl-topbar-bg) !important;}.has-fl-topbar-text-border-color{border-color: var(--wp--preset--color--fl-topbar-text) !important;}.has-fl-topbar-link-border-color{border-color: var(--wp--preset--color--fl-topbar-link) !important;}.has-fl-topbar-hover-border-color{border-color: var(--wp--preset--color--fl-topbar-hover) !important;}.has-fl-header-bg-border-color{border-color: var(--wp--preset--color--fl-header-bg) !important;}.has-fl-header-text-border-color{border-color: var(--wp--preset--color--fl-header-text) !important;}.has-fl-header-link-border-color{border-color: var(--wp--preset--color--fl-header-link) !important;}.has-fl-header-hover-border-color{border-color: var(--wp--preset--color--fl-header-hover) !important;}.has-fl-nav-bg-border-color{border-color: var(--wp--preset--color--fl-nav-bg) !important;}.has-fl-nav-link-border-color{border-color: var(--wp--preset--color--fl-nav-link) !important;}.has-fl-nav-hover-border-color{border-color: var(--wp--preset--color--fl-nav-hover) !important;}.has-fl-content-bg-border-color{border-color: var(--wp--preset--color--fl-content-bg) !important;}.has-fl-footer-widgets-bg-border-color{border-color: var(--wp--preset--color--fl-footer-widgets-bg) !important;}.has-fl-footer-widgets-text-border-color{border-color: var(--wp--preset--color--fl-footer-widgets-text) !important;}.has-fl-footer-widgets-link-border-color{border-color: var(--wp--preset--color--fl-footer-widgets-link) !important;}.has-fl-footer-widgets-hover-border-color{border-color: var(--wp--preset--color--fl-footer-widgets-hover) !important;}.has-fl-footer-bg-border-color{border-color: var(--wp--preset--color--fl-footer-bg) !important;}.has-fl-footer-text-border-color{border-color: var(--wp--preset--color--fl-footer-text) !important;}.has-fl-footer-link-border-color{border-color: var(--wp--preset--color--fl-footer-link) !important;}.has-fl-footer-hover-border-color{border-color: var(--wp--preset--color--fl-footer-hover) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='font-awesome-5-css' href='https://gpfirescience.org/wp-content/plugins/bb-plugin/fonts/fontawesome/7.2.0/css/all.min.css?ver=2.11.1.2' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://gpfirescience.org/wp-content/plugins/bb-plugin/fonts/fontawesome/7.2.0/css/v4-shims.min.css?ver=2.11.1.2' media='all' />
+<link rel='stylesheet' id='wphb-1-css' href='https://gpfirescience.org/static/c388e73d1fced8ce040654ce089e1030.css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://gpfirescience.org/wp-includes/css/dashicons.min.css?ver=d4fa56752c5519765a437db2b1ae8ef8' media='all' />
+<link rel='stylesheet' id='wphb-2-css' href='https://gpfirescience.org/static/a85e2acf9faf34c5640cf96ffef389d7.css' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css' href='https://gpfirescience.org/wp-content/uploads/bb-theme/skin-6a864fbc9ea8d.css?ver=1.7.20' media='all' />
+<link rel='stylesheet' id='wphb-3-css' href='https://gpfirescience.org/static/711ec99389bf4f6a24a13c50303864ad.css' media='all' />
+<link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Roboto:400,300,700|Michroma:400&#038;ver=d4fa56752c5519765a437db2b1ae8ef8" /><style type="text/css" id="fl-builder-google-fonts-c600194d7d0db838668768aed65a9504-css" media="print" onload="this.media=&#34;all&#34;">@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/cyrillic-ext/400/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/cyrillic/400/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/greek/400/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/latin-ext/400/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/symbols/400/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/vietnamese/400/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/math/400/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto/5.2.10/greek-ext/400/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/latin/300/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/vietnamese/300/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/latin-ext/300/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/cyrillic-ext/300/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/math/300/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/symbols/300/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/greek-ext/300/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/cyrillic/300/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:300;src:url(/cf-fonts/s/roboto/5.2.10/greek/300/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/math/700/normal.woff2);unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0310,U+0312,U+0315,U+031A,U+0326-0327,U+032C,U+032F-0330,U+0332-0333,U+0338,U+033A,U+0346,U+034D,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2016-2017,U+2034-2038,U+203C,U+2040,U+2043,U+2047,U+2050,U+2057,U+205F,U+2070-2071,U+2074-208E,U+2090-209C,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2100-2112,U+2114-2115,U+2117-2121,U+2123-214F,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B7,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+3030,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/greek/700/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/cyrillic-ext/700/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/cyrillic/700/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/latin/700/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/latin-ext/700/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/greek-ext/700/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/symbols/700/normal.woff2);unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8BB,U+1F8C0-1F8C1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA89,U+1FA8F-1FAC6,U+1FACE-1FADC,U+1FADF-1FAE9,U+1FAF0-1FAF8,U+1FB00-1FBFF;font-display:swap;}@font-face {font-family:'Roboto';font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto/5.2.10/vietnamese/700/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Michroma';font-style:normal;font-weight:400;src:url(/cf-fonts/s/michroma/5.2.8/latin-ext/400/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Michroma';font-style:normal;font-weight:400;src:url(/cf-fonts/s/michroma/5.2.8/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}</style>
+<script id="wphb-4-js" src="https://gpfirescience.org/static/bf6c613ebbb86f2812939a5993d27b13.js"></script>
+<link rel="https://api.w.org/" href="https://gpfirescience.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gpfirescience.org/xmlrpc.php?rsd" />
+		<script>
+			var bb_powerpack = {
+				version: '2.42.3',
+				getAjaxUrl: function() { return atob( 'aHR0cHM6Ly9ncGZpcmVzY2llbmNlLm9yZy93cC1hZG1pbi9hZG1pbi1hamF4LnBocA==' ); },
+				callback: function() {},
+				mapMarkerData: {},
+				post_id: '162437',
+				search_term: '',
+				current_page: 'https://gpfirescience.org/wp-content/uploads/2021/04/GPFSE-Logo-2021.png/',
+				conditionals: {
+					is_front_page: false,
+					is_home: true,
+					is_archive: false,
+					current_post_type: '',
+					is_tax: false,
+										is_author: false,
+					current_author: false,
+					is_search: false,
+									}
+			};
+					</script>
+		<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://gpfirescience.org"><link rel="alternate" href="https://gpfirescience.org/wp-json/tribe/events/v1/" />		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-bg-max-width: 120px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+				aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		<!-- /SEO -->
+<style type="text/css" id="branda-admin-bar-logo">
+body #wpadminbar #wp-admin-bar-wp-logo > .ab-item {
+	background-image: url(https://gpfirescience.org/wp-content/uploads/2025/07/Eons-Favicon-1-C-Blue-scaled.png);
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: 80%;
+}
+body #wpadminbar #wp-admin-bar-wp-logo > .ab-item .ab-icon:before {
+	content: " ";
+}
+</style>
+<style id="gpfse-a11y-touch-target-fixes">
+.pp-advanced-menu .pp-advanced-menu-horizontal.pp-toggle-arrows .pp-menu-toggle,
+.pp-advanced-menu .pp-advanced-menu-horizontal.pp-toggle-none .pp-menu-toggle,
+.pp-advanced-menu .pp-advanced-menu-vertical.pp-toggle-arrows .pp-menu-toggle,
+.pp-advanced-menu .pp-advanced-menu-vertical.pp-toggle-none .pp-menu-toggle {
+  min-width: 28px !important;
+  width: 28px !important;
+  min-height: 28px !important;
+  height: 28px !important;
+  margin-top: -14px !important;
+  right: 4px !important;
+}
+
+body.page-id-2592 ul.about_ul > li,
+body.page-id-2608 .fl-rich-text > ul > li,
+body.page-id-2611 .fl-rich-text > ul > li {
+  margin-bottom: 0.25rem;
+}
+
+body.page-id-2592 ul.about_ul > li > strong > a,
+body.page-id-2608 .fl-rich-text > ul > li > a,
+body.page-id-2611 .fl-rich-text > ul > li > a {
+  line-height: 1.65;
+}
+</style>
+<style id="gpfse-a11y-uc-embedding-fixes">
+/* Usercentrics video-embed consent placeholder ships white-on-near-white text (1.09:1) */
+.uc-embedding-wrapper .uc-embedding-more-info {
+  background-color: #1a1a1a !important;
+  color: #ffffff !important;
+  border: 1px solid #ffffff !important;
+}
+</style>
+    <link rel="icon" href="https://gpfirescience.org/wp-content/uploads/2019/09/cropped-Great-Plains-Fire-Science-Exchange-skull-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://gpfirescience.org/wp-content/uploads/2019/09/cropped-Great-Plains-Fire-Science-Exchange-skull-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gpfirescience.org/wp-content/uploads/2019/09/cropped-Great-Plains-Fire-Science-Exchange-skull-180x180.png" />
+<meta name="msapplication-TileImage" content="https://gpfirescience.org/wp-content/uploads/2019/09/cropped-Great-Plains-Fire-Science-Exchange-skull-270x270.png" />
+<style id="gpfse-publication-styles" data-no-optimize="1">/*
+ * GPFSE publication styling — global, class-driven, publication-generic.
+ *
+ * Every GPFSE publication page uses these gpe-publication-* classes instead
+ * of page-local Beaver Builder layout CSS, so the look of all publications
+ * changes here, in one place.  Type and color choices follow the WCAG 2.2 AA
+ * review of the prescribed-burning publication.
+ */
+
+:root {
+  /* The title orange is sampled from the supplied print reference and is
+   * within 4.6 RGB units of #e07744 in the logo gradient. The darker red is
+   * an exact opaque logo pixel and keeps small white text at 4.78:1. */
+  --gpe-publication-brand-orange: #dc7842;
+  --gpe-publication-brand-red: #c9462a;
+  --gpe-publication-print-table-clearance: 0.08in;
+  --gpe-publication-print-table-space-after: 12pt;
+  --gpe-publication-print-byline-space-before: 0.125in;
+  --gpe-publication-print-byline-space-after: 0.166667in;
+  --gpe-publication-print-section-space-before: 0.105in;
+  --gpe-publication-print-section-space-after: 0.08in;
+  --gpe-publication-print-subheading-space-before: 0.125in;
+  --gpe-publication-print-subheading-space-after: 0.04in;
+  --gpe-publication-print-figure-space-before: 0.03in;
+  --gpe-publication-print-figure-space-after: 0.25in;
+  --gpe-publication-caption-color: #3f6f27;
+  --gpe-publication-caption-font-family: "Liberation Serif", "Nimbus Roman", "Times New Roman", serif;
+  --gpe-publication-caption-font-size: 11pt;
+  --gpe-publication-caption-font-weight: 700;
+  --gpe-publication-caption-line-height: 1.14;
+}
+
+.gpe-publication-hero {
+  background: #fff;
+  border-bottom: 2px solid var(--gpe-publication-brand-red);
+}
+
+.gpe-publication-hero h1,
+h1.gpe-publication-heading,
+h1.gpe-publication-heading span {
+  color: #202124 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: clamp(32px, 5vw, 48px) !important;
+  font-weight: 700 !important;
+  letter-spacing: normal !important;
+  line-height: 1.12 !important;
+  margin-top: 18px;
+}
+
+/* A non-breaking space is retained after an authored line break so Chromium
+ * gives the PDF outline a separated title. Pull the following span back by
+ * one space so the painted title remains flush left like the source design. */
+.gpe-publication-hero h1 br + span,
+h1.gpe-publication-heading br + span {
+  position: relative;
+  left: -0.278em;
+}
+
+.gpe-publication-banner img {
+  width: 100%;
+  height: auto;
+}
+
+/* The module class is the complete editor-facing contract: adding it to a
+ * Beaver Builder HTML module right-aligns the current-publication download
+ * button on screen and the print rules below exclude the complete module. */
+.gpe-publication-download {
+  text-align: right;
+}
+
+/* Print-only controls stay off the public web page, but remain visible in
+ * Beaver Builder so editors can select and change them. */
+@media screen {
+  html:not(.fl-builder-edit) body:not(.fl-builder-edit) :is(.gpe-publication-banner,
+      .gpe-publication-print-info-row,
+      .gpe-publication-print-only) {
+    display: none !important;
+  }
+
+  :is(html, body).fl-builder-edit :is(.gpe-publication-banner,
+      .gpe-publication-print-info-row,
+      .gpe-publication-print-only) {
+    display: block !important;
+    outline: 2px dashed var(--gpe-publication-brand-orange);
+    outline-offset: -2px;
+  }
+}
+
+.gpe-publication-kicker {
+  color: var(--gpe-publication-brand-red) !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  letter-spacing: normal !important;
+  line-height: 1.5 !important;
+  text-transform: none !important;
+}
+
+.gpe-publication-byline {
+  font-size: 1.08rem;
+}
+
+:is(.gpe-publication-byline.fl-rich-text, .gpe-publication-byline .fl-rich-text) > p:not(.gpe-publication-kicker) {
+  display: flex;
+  width: 100%;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+:is(.gpe-publication-byline.fl-rich-text, .gpe-publication-byline .fl-rich-text) > p:not(.gpe-publication-kicker) > span {
+  margin-left: auto;
+  text-align: right;
+}
+
+.gpe-publication-section,
+.gpe-publication-hero {
+  color: #202124;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+.gpe-publication-section *,
+.gpe-publication-hero * {
+  font-family: inherit;
+}
+
+h2.gpe-publication-heading,
+h3.gpe-publication-heading,
+.gpe-publication-heading h2,
+.gpe-publication-heading h3,
+.gpe-publication-copy h3 {
+  color: #26372b !important;
+  font-family: inherit !important;
+  font-weight: 700 !important;
+  letter-spacing: normal !important;
+  text-transform: none !important;
+}
+
+h2.gpe-publication-heading,
+.gpe-publication-heading h2 {
+  font-size: 26px !important;
+  line-height: 1.25 !important;
+}
+
+h3.gpe-publication-heading,
+.gpe-publication-heading h3,
+.gpe-publication-copy h3 {
+  color: #7a3814;
+  font-size: 21px !important;
+  line-height: 1.3 !important;
+  margin-top: 1.4em;
+}
+
+.gpe-publication-copy {
+  color: #202124;
+  font-family: inherit !important;
+  font-size: 16px !important;
+  line-height: 1.65 !important;
+}
+
+.gpe-publication-copy li {
+  margin-bottom: .48em;
+}
+
+.gpe-publication-toc-row {
+  background: #fff;
+  color: #202124;
+}
+
+.gpe-publication-toc-row .pp-toc-container {
+  background: #f4f3ef;
+  border: 1px solid #d7d4cc;
+  color: #202124;
+  padding: 18px 20px;
+}
+
+.gpe-publication-toc-row .pp-toc-header,
+.gpe-publication-toc-row .pp-toc-header-title {
+  background: #f4f3ef !important;
+  color: #26372b;
+  font-weight: 700;
+}
+
+.gpe-publication-toc-row .pp-toc-header[role="button"]:focus-visible {
+  box-shadow: 0 0 0 3px #fff, 0 0 0 6px #174f7a;
+  outline: 2px solid transparent;
+  outline-offset: 3px;
+}
+
+.gpe-publication-toc-row .pp-toc-list-wrapper {
+  columns: 2;
+  column-gap: 36px;
+  margin-top: 12px;
+}
+
+.gpe-publication-toc-row .pp-toc-list-wrapper :is(ol, ul) {
+  margin-top: 0;
+}
+
+.gpe-publication-toc-row .pp-toc-container a {
+  color: #174f7a;
+  display: inline-block;
+  min-height: 28px;
+  padding: 4px 6px;
+  text-decoration: underline;
+}
+
+.gpe-publication-photo img {
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.gpe-publication-section .pp-photo,
+.gpe-publication-section .fl-photo {
+  max-width: 680px;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: left;
+}
+
+.gpe-publication-section .pp-photo-align-center,
+.gpe-publication-section .pp-photo-align-responsive-center {
+  text-align: left;
+}
+
+/* A figure shrink-wraps its image, and the caption (table-caption) can be
+   no wider than the image. */
+.gpe-publication-section figure.gpe-publication-figure {
+  display: table;
+  table-layout: auto;
+  width: auto;
+  max-width: 100%;
+  margin: 0 0 1.2em;
+}
+
+.gpe-publication-section figure.gpe-publication-figure figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  background: transparent;
+  width: auto !important;
+  max-width: 100% !important;
+}
+
+.gpe-publication-section figure.gpe-publication-figure :is(.pp-photo-container,
+    .pp-photo,
+    .pp-photo-content,
+    .pp-photo-content-inner,
+    .fl-photo) {
+  width: auto !important;
+  max-width: 100% !important;
+}
+
+.gpe-publication-section figure.gpe-publication-figure img {
+  width: auto !important;
+  max-width: 100% !important;
+}
+
+.gpe-publication-section .pp-photo-container,
+.gpe-publication-section .pp-photo,
+.gpe-publication-section .pp-photo-content,
+.gpe-publication-section .pp-photo-content-inner {
+  display: block;
+  max-width: 680px;
+}
+
+.gpe-publication-section .pp-photo img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.gpe-publication-hero .pp-photo,
+.gpe-publication-hero .fl-photo {
+  max-width: none;
+}
+
+.gpe-publication-info-bar {
+  background: var(--gpe-publication-brand-red);
+  color: #fff;
+  margin-top: 1.4em;
+  padding: 10px 14px;
+  text-align: center;
+}
+
+.gpe-publication-info-bar a {
+  color: #fff !important;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.gpe-publication-photo .pp-photo-caption,
+.gpe-publication-photo .fl-photo-caption-below,
+.gpe-publication-figure-label,
+.gpe-publication-section table caption {
+  color: #303134;
+  font-family: inherit;
+  font-size: 15px !important;
+  font-weight: 400;
+  line-height: 1.45;
+  padding-top: 9px;
+  text-align: left;
+}
+
+.gpe-publication-section table caption {
+  caption-side: bottom;
+  padding-top: 0.6em;
+}
+
+.gpe-publication-section a:not(.fl-button):not(.pp-button),
+.gpe-publication-hero a:not(.fl-button):not(.pp-button) {
+  color: #174f7a;
+  text-decoration: underline;
+  text-decoration-thickness: 0.09em;
+  text-underline-offset: 0.14em;
+}
+
+.gpe-publication-table-wrap {
+  font-size: 15px;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+.gpe-publication-table-wrap table {
+  border: 1px solid #59625b;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.gpe-publication-table-wrap th,
+.gpe-publication-table-wrap td {
+  border: 1px solid #929992;
+  padding: 12px 14px;
+  text-align: left;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+.gpe-publication-table-wrap thead th {
+  background: #eef1e9;
+  color: #26372b;
+}
+
+.gpe-publication-table-wrap tbody th {
+  background: #f7f6f2;
+  color: #26372b;
+  width: 22%;
+}
+
+.gpe-publication-table-wrap :is(th, td):nth-child(2) {
+  width: 32%;
+}
+
+.gpe-publication-table-wrap :is(th, td):nth-child(3) {
+  width: 46%;
+}
+
+.gpe-publication-summary {
+  background: #eef2e9;
+  border-top: 4px solid #809457;
+  border-bottom: 4px solid #809457;
+}
+
+.gpe-publication-reference-list {
+  padding-left: 1.25rem;
+}
+
+.gpe-publication-reference-list li {
+  margin-bottom: 1rem;
+}
+
+.gpe-publication-download .fl-button,
+.gpe-publication-download .pp-button {
+  font-size: 16px !important;
+  min-height: 44px;
+}
+
+.gpe-publication-section a:focus-visible,
+.gpe-publication-hero a:focus-visible,
+.gpe-publication-section button:focus-visible,
+.gpe-publication-section [tabindex]:focus-visible {
+  border-radius: 2px;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 6px #174f7a;
+  outline: 2px solid transparent;
+  outline-offset: 3px;
+}
+
+.gpe-publication-section [id],
+.gpe-publication-hero [id] {
+  scroll-margin-top: 6rem;
+}
+
+@media (max-width: 768px) {
+  .gpe-publication-section,
+  .gpe-publication-hero {
+    font-size: 17px;
+  }
+
+  .gpe-publication-toc-row .pp-toc-list-wrapper {
+    columns: 1;
+  }
+
+  .gpe-publication-section .fl-col {
+    width: 100% !important;
+  }
+
+  :is(.gpe-publication-byline.fl-rich-text, .gpe-publication-byline .fl-rich-text) > p:not(.gpe-publication-kicker) {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gpe-publication-section,
+  .gpe-publication-section *,
+  .gpe-publication-hero,
+  .gpe-publication-hero * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ==========================================================
+   Publication print layout.
+
+   The builder content itself is the two-column flow. Rows carrying a
+   semantic utility class span that flow for front matter, tables, wide
+   figures, and the closing information bar. This keeps duplicated
+   publications editable in Beaver Builder and avoids node-ID or text-based
+   DOM surgery at print time.
+   ========================================================== */
+
+@page {
+  size: letter;
+  margin: 0.5in;
+
+  @bottom-center {
+    content: counter(page);
+    color: #202124;
+    font-family: "Liberation Sans", Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+  }
+}
+
+@media print {
+  body:has(.gpe-publication-hero) {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #fff !important;
+    color: #202124 !important;
+    font-family: "Liberation Serif", "Nimbus Roman", "Times New Roman", serif !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  body:has(.gpe-publication-hero) :is(#wpadminbar,
+      .no-print,
+      header.fl-builder-content,
+      footer.fl-builder-content,
+      .fl-builder-content[data-type="header"],
+      .fl-builder-content[data-type="footer"],
+      .fl-page-header,
+      .fl-page-nav-wrap,
+      .fl-page-footer-wrap,
+      .mega-menu-wrap,
+      .mega-menu-toggle,
+      .pp-search-form,
+      .searchwp-live-search-results,
+      iframe,
+      noscript,
+      dialog,
+      [id*="usercentrics" i],
+      [class*="usercentrics" i],
+      [id^="uc-"],
+      [class^="uc-"],
+      [class*=" uc-"]),
+  body:has(.gpe-publication-hero) .gpe-publication-toc-row,
+  body:has(.gpe-publication-hero) .gpe-publication-download {
+    display: none !important;
+  }
+
+  body:has(.gpe-publication-hero) :is(.fl-page, #fl-main-content, .fl-page-content) {
+    float: none !important;
+    width: auto !important;
+    max-width: none !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content[data-post-id] {
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    column-count: 2 !important;
+    column-gap: 0.28in !important;
+    column-fill: auto !important;
+    font-size: 10.5pt !important;
+    line-height: 1.16 !important;
+  }
+
+  /* Ordinary builder rows dissolve into the publication-wide column flow. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .fl-row.gpe-publication-section:not(.gpe-publication-table-row):not(.gpe-publication-figure-row):not(.gpe-publication-print-info-row),
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .fl-row.gpe-publication-section:not(.gpe-publication-table-row):not(.gpe-publication-figure-row):not(.gpe-publication-print-info-row) :is(.fl-row-content-wrap,
+      .fl-row-content,
+      .fl-row-fixed-width,
+      .fl-row-full-width,
+      .fl-col-group,
+      .fl-col,
+      .fl-col-content) {
+    display: contents !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .fl-row.gpe-publication-hero,
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .fl-row.gpe-publication-table-row,
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .fl-row.gpe-publication-figure-row {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    column-span: all !important;
+  }
+
+  /* Footer spacing is authored on its direct Builder wrapper below. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .fl-row.gpe-publication-print-info-row {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    column-span: all !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > :is(.gpe-publication-hero,
+      .gpe-publication-figure-row) :is(.fl-row-content-wrap,
+      .fl-row-content,
+      .fl-row-fixed-width,
+      .fl-row-full-width,
+      .fl-col-group,
+      .fl-col,
+      .fl-col-content) {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Shared print rhythm separates a table from the surrounding columns.
+     Builder row spacing remains at its defaults; this one reusable rule owns
+     the PDF-only clearance for every publication table. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .gpe-publication-table-row > .fl-row-content-wrap {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding-top: var(--gpe-publication-print-table-clearance) !important;
+    padding-right: 0 !important;
+    padding-bottom: var(--gpe-publication-print-table-space-after) !important;
+    padding-left: 0 !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .gpe-publication-table-row > .fl-row-content-wrap :is(.fl-row-content,
+      .fl-row-fixed-width,
+      .fl-row-full-width,
+      .fl-col-group,
+      .fl-col,
+      .fl-col-content) {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* The footer is the sole intentional Builder spacing control: its top
+     padding creates the final-page breathing room. Normalize every side that
+     is not part of that explicit editorial control. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .gpe-publication-print-info-row > .fl-row-content-wrap {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    padding-right: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .gpe-publication-print-info-row > .fl-row-content-wrap :is(.fl-row-content,
+      .fl-row-fixed-width,
+      .fl-row-full-width,
+      .fl-col-group,
+      .fl-col,
+      .fl-col-content) {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .fl-module,
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .fl-module-content {
+    display: block !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+
+  /* This must follow the generic module reset above. That reset deliberately
+     uses !important and otherwise wins over the earlier utility hide rule,
+     causing module-level no-print/download controls to leak into the PDF. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .fl-module.no-print,
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .fl-module.gpe-publication-download,
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .no-print,
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .gpe-publication-download {
+    display: none !important;
+  }
+
+  /* A native Beaver Builder Separator carrying this class is an editorial
+     page-break marker. Its visible line is an editor affordance only; the
+     zero-height module contributes no content or spacing to the PDF. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .fl-module.gpe-publication-page-break {
+    display: block !important;
+    width: 100% !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    background: transparent !important;
+    border: 0 !important;
+    break-after: page !important;
+    page-break-after: always !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .gpe-publication-page-break * {
+    display: none !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-toc-row,
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-toc-row * {
+    display: none !important;
+  }
+
+  /* Front matter follows the supplied publication without hard-coding a
+     page. The issue label remains attached to the banner when text grows. */
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-hero {
+    position: relative !important;
+    margin-bottom: 0.08in !important;
+    background: #fff !important;
+    border: 0 !important;
+    break-inside: avoid-page !important;
+  }
+
+  .gpe-publication-hero .pp-photo img,
+  .gpe-publication-hero .fl-photo img {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    margin: 0 0 0.07in !important;
+    object-fit: contain !important;
+  }
+
+  body:has(.gpe-publication-hero) h1,
+  body:has(.gpe-publication-hero) h1 span {
+    margin: 0 0 0.055in !important;
+    padding-left: 0 !important;
+    color: var(--gpe-publication-brand-orange) !important;
+    font-family: "Liberation Sans", "Nimbus Sans", Arial, Helvetica, sans-serif !important;
+    font-size: 21.5pt !important;
+    font-weight: 400 !important;
+    letter-spacing: 0 !important;
+    line-height: 1.12 !important;
+    text-indent: 0 !important;
+  }
+
+  body:has(.gpe-publication-hero) h1 br + span {
+    left: -0.278em !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-kicker {
+    position: static !important;
+    display: block !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-kicker p {
+    position: absolute !important;
+    top: 0 !important;
+    right: 0.12in !important;
+    left: auto !important;
+    z-index: 1 !important;
+    display: inline-block !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0.045in 0.1in !important;
+    background: var(--gpe-publication-brand-red) !important;
+    color: #fff !important;
+    font-family: "Liberation Sans", "Nimbus Sans", Arial, Helvetica, sans-serif !important;
+    font-size: 8pt !important;
+    font-weight: 400 !important;
+    line-height: 1.15 !important;
+    white-space: nowrap !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-kicker,
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-kicker * {
+    color: #fff !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .fl-module.gpe-publication-byline {
+    margin: var(--gpe-publication-print-byline-space-before) 0
+      var(--gpe-publication-print-byline-space-after) !important;
+  }
+
+  .gpe-publication-byline,
+  .gpe-publication-byline .fl-module-content,
+  .gpe-publication-byline .fl-rich-text,
+  .gpe-publication-byline p:not(.gpe-publication-kicker) {
+    width: 100% !important;
+    max-width: none !important;
+    color: #202124 !important;
+    font-family: "Liberation Sans", "Nimbus Sans", Arial, Helvetica, sans-serif !important;
+    font-size: 8.5pt !important;
+    line-height: 1.2 !important;
+  }
+
+  .gpe-publication-byline .fl-module-content,
+  .gpe-publication-byline .fl-rich-text,
+  .gpe-publication-byline p:not(.gpe-publication-kicker) {
+    margin: 0 !important;
+  }
+
+  :is(.gpe-publication-byline.fl-rich-text, .gpe-publication-byline .fl-rich-text) > p:not(.gpe-publication-kicker) {
+    position: relative !important;
+    display: flex !important;
+    box-sizing: border-box !important;
+    align-items: baseline !important;
+    justify-content: space-between !important;
+    gap: 0.2in !important;
+    padding: 0 !important;
+  }
+
+  :is(.gpe-publication-byline.fl-rich-text, .gpe-publication-byline .fl-rich-text) > p:not(.gpe-publication-kicker) > span {
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+    margin-left: 0.2in !important;
+    text-align: right !important;
+  }
+
+  /* Body type uses the closest metrically compatible fonts installed in
+     the renderer; headings remain sans-serif like the reference. */
+  .gpe-publication-copy,
+  .gpe-publication-copy p,
+  .gpe-publication-copy li {
+    max-width: none !important;
+    color: #202124 !important;
+    font-family: inherit !important;
+    font-size: 12pt !important;
+    line-height: 1.14 !important;
+    orphans: 3 !important;
+    widows: 3 !important;
+  }
+
+  .gpe-publication-copy p {
+    margin: 0 0 0.085in !important;
+  }
+
+  .gpe-publication-copy ul,
+  .gpe-publication-copy ol {
+    margin: 0.025in 0 0.075in 0.17in !important;
+    padding: 0 !important;
+  }
+
+  .gpe-publication-copy li {
+    margin: 0 0 0.028in !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-module-heading {
+    /* `avoid-column` does not cover a page boundary inside Chromium's
+       multicolumn pagination. `avoid` keeps the heading with the first body
+       lines at both column and page boundaries. */
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-module-heading + .fl-module-rich-text {
+    break-before: avoid !important;
+    page-break-before: avoid !important;
+  }
+
+  /* Optional authored continuation point used when a figure should finish
+     the current column and its following discussion should start the next. */
+  .gpe-publication-followup {
+    break-before: column !important;
+  }
+
+  .gpe-publication-column-start {
+    break-before: column !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content :is(h2.fl-module.gpe-publication-heading, h2.gpe-publication-heading, .gpe-publication-heading h2) {
+    margin: var(--gpe-publication-print-section-space-before) 0 0 !important;
+    padding: 0 0 var(--gpe-publication-print-section-space-after) !important;
+    color: #3f6f27 !important;
+    font-family: "Liberation Sans", "Nimbus Sans", Arial, Helvetica, sans-serif !important;
+    font-size: 12pt !important;
+    font-weight: 400 !important;
+    letter-spacing: 0 !important;
+    line-height: 1.14 !important;
+    text-transform: none !important;
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content :is(h3.fl-module.gpe-publication-heading, h3.gpe-publication-heading, .gpe-publication-heading h3, .gpe-publication-copy h3) {
+    margin: var(--gpe-publication-print-subheading-space-before) 0 0 !important;
+    padding: 0 0 var(--gpe-publication-print-subheading-space-after) !important;
+    color: #3f6f27 !important;
+    font-family: "Liberation Serif", "Nimbus Roman", "Times New Roman", serif !important;
+    font-size: 11pt !important;
+    font-weight: 700 !important;
+    line-height: 1.15 !important;
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  /* The semantic normalizer promotes the Builder heading module itself to
+     H1/H2/H3. Give the cover title a measured gap before the byline without
+     relying on Beaver Builder's generic module margin reset. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content h1.fl-module.gpe-publication-heading {
+    margin-bottom: 0.033in !important;
+  }
+
+  /* Figures follow the Western Forbs intrinsic-width pattern: image and
+     caption remain atomic, and table-caption bounds the caption to the
+     rendered image rather than its Beaver Builder column. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content .gpe-publication-section:not(.gpe-publication-figure-row) :is(.fl-module-pp-image, .fl-module-photo) {
+    margin: var(--gpe-publication-print-figure-space-before) 0 var(--gpe-publication-print-figure-space-after) !important;
+    break-inside: avoid-column !important;
+    page-break-inside: avoid !important;
+  }
+
+  .gpe-publication-section figure.gpe-publication-figure {
+    display: table !important;
+    table-layout: auto !important;
+    width: auto !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    break-inside: avoid-column !important;
+    page-break-inside: avoid !important;
+  }
+
+  .gpe-publication-section figure.gpe-publication-figure figcaption {
+    display: table-caption !important;
+    width: auto !important;
+    max-width: 100% !important;
+    caption-side: bottom !important;
+  }
+
+  .gpe-publication-section figure.gpe-publication-figure :is(.pp-photo-container,
+      .pp-photo,
+      .pp-photo-content,
+      .pp-photo-content-inner,
+      .fl-photo) {
+    display: block !important;
+    width: auto !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .gpe-publication-section figure.gpe-publication-figure :is(.pp-photo, .fl-photo) img {
+    display: block !important;
+    width: auto !important;
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    margin: 0 auto !important;
+    object-fit: contain !important;
+  }
+
+  /* Photo and table captions share one semantic class and one complete type
+     treatment. Styling descendants prevents authored strong/span markup from
+     making only part of a table caption inherit the table's body color. */
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-caption,
+  body:has(.gpe-publication-hero) #fl-main-content .gpe-publication-caption * {
+    color: var(--gpe-publication-caption-color) !important;
+    font-family: var(--gpe-publication-caption-font-family) !important;
+    font-size: var(--gpe-publication-caption-font-size) !important;
+    font-style: normal !important;
+    font-weight: var(--gpe-publication-caption-font-weight) !important;
+    letter-spacing: normal !important;
+    line-height: var(--gpe-publication-caption-line-height) !important;
+    text-align: left !important;
+    text-transform: none !important;
+  }
+
+  .gpe-publication-section :is(.pp-photo-caption, .fl-photo-caption) {
+    margin: 0 !important;
+    padding: 0.035in 0 0 !important;
+  }
+
+  /* Comparison tables span the page and stay together whenever they fit.
+     break-inside is a soft fragmentation preference: an over-page table may
+     still split between rows, with its header repeated by the rule below. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-row.gpe-publication-table-row {
+    margin: 0 !important;
+    break-inside: avoid-page !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* Page starts are an explicit editorial option, separate from being a
+     table. Add this class in Builder only when composition calls for one. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-row.gpe-publication-table-row.gpe-publication-page-start {
+    break-before: page !important;
+    page-break-before: always !important;
+  }
+
+  .gpe-publication-table-wrap {
+    overflow: visible !important;
+  }
+
+  .gpe-publication-table-wrap table {
+    width: 100% !important;
+    border: 0.75pt solid #59625b !important;
+    border-collapse: collapse !important;
+    table-layout: fixed !important;
+    font-family: "Liberation Sans", "Nimbus Sans", Arial, Helvetica, sans-serif !important;
+    font-size: 9pt !important;
+    line-height: 1.2 !important;
+  }
+
+  .gpe-publication-table-wrap th,
+  .gpe-publication-table-wrap td {
+    border: 0.45pt solid #737a74 !important;
+    padding: 0.055in 0.06in !important;
+    color: #202124 !important;
+    text-align: left !important;
+    vertical-align: top !important;
+    overflow-wrap: break-word !important;
+    break-inside: avoid !important;
+  }
+
+  .gpe-publication-table-wrap thead th {
+    background: #eef1e9 !important;
+    color: #26372b !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+  }
+
+  .gpe-publication-table-wrap tbody th {
+    width: 22% !important;
+    background: #f7f6f2 !important;
+    color: #26372b !important;
+    font-weight: 700 !important;
+  }
+
+  .gpe-publication-table-wrap :is(th, td):nth-child(2) {
+    width: 32% !important;
+  }
+
+  .gpe-publication-table-wrap :is(th, td):nth-child(3) {
+    width: 46% !important;
+  }
+
+  .gpe-publication-table-wrap thead {
+    display: table-header-group !important;
+  }
+
+  .gpe-publication-table-wrap tr {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  body:has(.gpe-publication-hero) table caption,
+  .gpe-publication-figure-label {
+    caption-side: bottom !important;
+    padding: 0.055in 0 0 !important;
+  }
+
+  /* The closing panorama is full width, then references resume the
+     publication-wide columns beneath it. Its page position is controlled by
+     a movable gpe-publication-page-break Separator in Builder. */
+  body:has(.gpe-publication-hero) #fl-main-content .fl-builder-content > .fl-row.gpe-publication-figure-row {
+    margin: 0 0 0.12in !important;
+    /* Reserve the reference position while leaving enough room for the
+       editable footer clearance on this seven-page publication family. */
+    padding: 0 0 calc(3.37in - 12px) !important;
+    break-inside: avoid-page !important;
+    page-break-inside: avoid !important;
+  }
+
+  .gpe-publication-figure-row figure.gpe-publication-figure,
+  .gpe-publication-figure-row :is(.pp-photo-container, .pp-photo, .pp-photo-content, .pp-photo-content-inner) {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  .gpe-publication-figure-row .pp-photo img {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    object-fit: contain !important;
+  }
+
+  .gpe-publication-figure-row figure.gpe-publication-figure figcaption {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  .gpe-publication-reference-list {
+    margin: 0 0 0.07in !important;
+    padding: 0 !important;
+    list-style: none !important;
+  }
+
+  .gpe-publication-reference-list li {
+    break-inside: avoid-column !important;
+    margin: 0 0 0.035in !important;
+    padding-left: 0.1in !important;
+    text-indent: -0.1in;
+  }
+
+  .gpe-publication-reference-list a,
+  .gpe-publication-reference-list a:visited {
+    color: #174f7a !important;
+    text-decoration: underline !important;
+  }
+
+  body:has(.gpe-publication-hero) #fl-main-content .fl-row.gpe-publication-print-info-row {
+    break-inside: avoid-page !important;
+    page-break-inside: avoid !important;
+  }
+
+  .gpe-publication-info-bar {
+    margin: 0 !important;
+    padding: 0.055in !important;
+    /* The logo red against white is 4.78:1 (WCAG AA for normal text). */
+    background: var(--gpe-publication-brand-red) !important;
+    color: #fff !important;
+    font-family: "Liberation Sans", "Nimbus Sans", Arial, Helvetica, sans-serif !important;
+    font-size: 8.25pt !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+  }
+
+  .gpe-publication-info-bar a,
+  .gpe-publication-info-bar a:visited {
+    color: #fff !important;
+    font-weight: 700 !important;
+    text-decoration: underline !important;
+  }
+
+  body:has(.gpe-publication-hero) a[href]::after {
+    content: none !important;
+  }
+
+  .gpe-publication-section a:not(.gpe-publication-reference-list a),
+  .gpe-publication-hero a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+  /* The generic publication-copy and link rules above are intentionally
+     broad. Reassert the callout palette after them so authored paragraph
+     and link wrappers cannot turn the text dark against the orange bar. */
+  body:has(.gpe-publication-hero) .gpe-publication-info-bar,
+  body:has(.gpe-publication-hero) .gpe-publication-info-bar * {
+    color: #fff !important;
+  }
+
+  body:has(.gpe-publication-hero) .gpe-publication-info-bar :is(a, a:visited) {
+    text-decoration: underline !important;
+  }
+
+  .gpe-publication-section {
+    background: transparent !important;
+    border: 0 !important;
+    font-family: "Liberation Serif", "Nimbus Roman", "Times New Roman", serif !important;
+  }
+}
+</style><style id="gpfse-publication-screen-styles" data-no-optimize="1">/*
+ * Browser-only publication layout.
+ *
+ * This file is omitted entirely from signed PDF requests. Gotenberg can use
+ * screen media while composing a PDF, so @media alone is not an isolation
+ * boundary for rules that change Beaver Builder geometry.
+ */
+
+@media screen {
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .fl-builder-content[data-post-id] {
+    --gpe-publication-screen-inline-space: clamp(1rem, 3vw, 2rem);
+    --gpe-publication-screen-section-space: clamp(1.5rem, 2.5vw, 2rem);
+    --gpe-publication-screen-module-space: 1rem;
+  }
+
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .gpe-publication-hero {
+    background: transparent;
+  }
+
+  /* Beaver Builder places vertical space on both row wrappers and modules.
+   * Collapse those layers, then apply one reusable publication rhythm. The
+   * same inline gutter aligns every hero, heading, paragraph, image, caption,
+   * and table without page-specific pixel pushing. */
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .fl-builder-content[data-post-id]
+      > :is(.fl-row.gpe-publication-hero, .fl-row.gpe-publication-section):not(.gpe-publication-print-info-row)
+      > .fl-row-content-wrap {
+    padding-top: 0 !important;
+    padding-right: var(--gpe-publication-screen-inline-space) !important;
+    padding-bottom: 0 !important;
+    padding-left: var(--gpe-publication-screen-inline-space) !important;
+  }
+
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .fl-builder-content[data-post-id]
+      > .fl-row:not(.gpe-publication-print-info-row)
+      + .fl-row:not(.gpe-publication-print-info-row)
+      > .fl-row-content-wrap {
+    padding-top: var(--gpe-publication-screen-section-space) !important;
+  }
+
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .fl-builder-content[data-post-id]
+      :is(.gpe-publication-hero, .gpe-publication-section):not(.gpe-publication-print-info-row)
+      :is(.fl-module-content, .fl-module:not(:has(> .fl-module-content))) {
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .fl-builder-content[data-post-id]
+      .gpe-publication-section:not(.gpe-publication-print-info-row)
+      .fl-module + .fl-module {
+    margin-top: var(--gpe-publication-screen-module-space);
+  }
+
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .fl-builder-content[data-post-id]
+      .gpe-publication-hero .gpe-publication-byline {
+    margin-top: var(--gpe-publication-screen-module-space);
+  }
+
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content .gpe-publication-section
+      figure.gpe-publication-figure {
+    margin-bottom: 0;
+  }
+
+  body.gpe-publication-web-view:has(.gpe-publication-hero) #fl-main-content
+      :is(.gpe-publication-photo .pp-photo-caption,
+          .gpe-publication-photo .fl-photo-caption-below,
+          .gpe-publication-section figure.gpe-publication-figure figcaption) {
+    padding: 0.5rem 0 0 !important;
+    background: transparent !important;
+  }
+
+  /* The module's node label also reads “PDF Page Break” in Builder. This
+   * canvas marker makes the otherwise print-only control easy to spot and
+   * drag without leaking a divider or extra space onto the web page. */
+  :is(html, body).fl-builder-edit .gpe-publication-page-break::before {
+    content: "PDF page break";
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.45rem 0.75rem;
+    border: 1px dashed var(--gpe-publication-brand-orange);
+    background: #fff7f1;
+    color: #7a321b;
+    font: 600 13px/1.25 Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+
+  :is(html, body).fl-builder-edit .gpe-publication-page-break .fl-separator {
+    display: none;
+  }
+}
+</style><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37915507-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-37915507-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3WXERGEZH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F3WXERGEZH');
+</script>
+</head>
+<body class="blog wp-theme-bb-theme wp-child-theme-bb-theme-child fl-builder-2-11-1-2 fl-themer-1-6-1 fl-theme-1-7-20 fl-no-js tribe-no-js page-template-beaver-builder-child-theme fl-theme-builder-header fl-theme-builder-header-header fl-theme-builder-footer fl-theme-builder-footer-footer fl-theme-builder-archive fl-theme-builder-archive-main-blog mega-menu-header fl-framework-base fl-preset-default fl-full-width fl-search-active gpe-publication-web-view" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip to content</a><div class="fl-page">
+	<header class="fl-builder-content fl-builder-content-13 fl-builder-global-templates-locked" data-post-id="13" data-type="header" data-sticky="1" data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0" data-overlay-bg="transparent" data-shrink-image-height="50px" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5d7a7356746dc fl-row-default-height fl-row-align-center" data-node="5d7a7356746dc">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5d7a735676dfa fl-col-group-equal-height fl-col-group-align-center" data-node="5d7a735676dfa">
+			<div class="fl-col fl-node-5d7a73567708d fl-col-bg-color fl-col-small" data-node="5d7a73567708d">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5d7a738183c55" data-node="5d7a738183c55" aria-label="Photo">
+	<div class="fl-module-content fl-node-content">
+		<div role="figure" class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://gpfirescience.org" target="_self" itemprop="url">
+					<img decoding="async" class="fl-photo-img wp-image-15 size-full" src="https://gpfirescience.org/wp-content/uploads/2019/09/Great-Plains-Fire-Science-Exchange.png" alt="Great-Plains-Fire-Science-Exchange" height="442" width="422" title="Great-Plains-Fire-Science-Exchange"  data-no-lazy="1" itemprop="image" srcset="https://gpfirescience.org/wp-content/uploads/2019/09/Great-Plains-Fire-Science-Exchange.png 422w, https://gpfirescience.org/wp-content/uploads/2019/09/Great-Plains-Fire-Science-Exchange-286x300.png 286w" sizes="(max-width: 422px) 100vw, 422px" />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5d7a735677094 fl-col-bg-color fl-col-has-cols" data-node="5d7a735677094">
+	<div class="fl-col-content fl-node-content">
+<div class="fl-col-group fl-node-5d7a73c50852f fl-col-group-nested fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="5d7a73c50852f">
+			<div class="fl-col fl-node-rjonebdiha81 fl-col-bg-color fl-col-small" data-node="rjonebdiha81">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-dkilvo96hqew" data-node="dkilvo96hqew" aria-label="Photo">
+	<div class="fl-module-content fl-node-content">
+		<div role="figure" class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+					<img decoding="async" class="fl-photo-img wp-image-80232 size-full" src="https://gpfirescience.org/wp-content/uploads/2024/01/JFSP_logo.png" alt="JFSP_logo" height="91" width="92" title="JFSP_logo"  data-no-lazy="1" itemprop="image" />
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5d7a73c5086a6 fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5d7a73c5086a6">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-social-icons fl-node-5d7a73d589f69" data-node="5d7a73d589f69" aria-label="Social Icons">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="pp-social-icons pp-social-icons-horizontal">
+	<span class="pp-social-icon" itemscope itemtype="https://schema.org/Organization">
+		<link itemprop="url" href="https://gpfirescience.org">
+		<a itemprop="sameAs" href="https://www.facebook.com/GPFireScience/" target="_blank" title="Facebook" aria-label="Facebook" role="button" rel="noopener noreferrer external" >
+							<i class="fab fa-facebook-f"></i>
+					</a>
+	</span>
+		<span class="pp-social-icon" itemscope itemtype="https://schema.org/Organization">
+		<link itemprop="url" href="https://gpfirescience.org">
+		<a itemprop="sameAs" href="https://twitter.com/gpfirescience" target="_blank" title="Twitter" aria-label="Twitter" role="button" rel="noopener noreferrer external" >
+							<i class="fab fa-twitter"></i>
+					</a>
+	</span>
+		<span class="pp-social-icon" itemscope itemtype="https://schema.org/Organization">
+		<link itemprop="url" href="https://gpfirescience.org">
+		<a itemprop="sameAs" href="https://www.instagram.com/gpfirescience/" target="_blank" title="Instagram" aria-label="Instagram" role="button" rel="noopener noreferrer external" >
+							<i class="fab fa-instagram"></i>
+					</a>
+	</span>
+		<span class="pp-social-icon" itemscope itemtype="https://schema.org/Organization">
+		<link itemprop="url" href="https://gpfirescience.org">
+		<a itemprop="sameAs" href="https://www.youtube.com/user/GPFireScience" target="_blank" title="YouTube" aria-label="YouTube" role="button" rel="noopener noreferrer external" >
+							<i class="fab fa-youtube"></i>
+					</a>
+	</span>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5d7a73c5086ad fl-col-bg-color fl-col-small fl-col-small-custom-width" data-node="5d7a73c5086ad">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-search-form fl-node-5d7a74eec1587" data-node="5d7a74eec1587" aria-label="Search Form">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-search-form-wrap pp-search-form--style-minimal pp-search-form--button-type-icon">
+	<form class="pp-search-form" role="search" action="https://gpfirescience.org" method="get" aria-label="Search form">
+				<div class="pp-search-form__container">
+							<div class="pp-search-form__icon">
+					<i class="fa fa-search" aria-hidden="true"></i>					<span class="pp-screen-reader-text">Search</span>
+				</div>
+										<label class="pp-screen-reader-text" for="pp-search-form__input-5d7a74eec1587">
+				Search			</label>
+			<input id="pp-search-form__input-5d7a74eec1587"  placeholder="Search" class="pp-search-form__input" type="search" name="s" title="Search" value="">
+											</div>
+			</form>
+</div>	</div>
+</div>
+</div>
+</div>
+	</div>
+<div class="fl-module fl-module-pp-advanced-menu fl-node-m8l1iahbfg0r" data-node="m8l1iahbfg0r" aria-label="Advanced Menu">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-advanced-menu pp-advanced-menu-accordion-collapse pp-menu-default pp-menu-align-center pp-menu-position-below">
+   				<div class="pp-advanced-menu-mobile">
+			<button class="pp-advanced-menu-mobile-toggle hamburger" tabindex="0" aria-label="Menu" aria-expanded="false">
+				<div class="pp-hamburger"><div class="pp-hamburger-box"><div class="pp-hamburger-inner"></div></div></div>			</button>
+			</div>
+			   	<div class="pp-clear"></div>
+	<nav class="pp-menu-nav" aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+		<ul id="menu-header-menu" class="menu pp-advanced-menu-horizontal pp-toggle-arrows"><li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://gpfirescience.org/"><span class="menu-item-text">Home</span></a></li><li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/who-we-are/"><span class="menu-item-text">About</span></a></li><li id="menu-item-246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children pp-has-submenu"><div class="pp-has-submenu-container"><a href="https://gpfirescience.org/events/"><span class="menu-item-text">Events</span></a><button type="button" class="pp-menu-toggle" aria-label="Toggle submenu for Events" aria-haspopup="true" aria-expanded="false" aria-controls="sub-menu-246"></button></div><ul id="sub-menu-246" class="sub-menu">	<li id="menu-item-314" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat"><a href="https://gpfirescience.org/events/category/gpfse-events/"><span class="menu-item-text">GPFSE Events</span></a></li>	<li id="menu-item-313" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat"><a href="https://gpfirescience.org/events/category/other-events/"><span class="menu-item-text">Other Events</span></a></li></ul></li><li id="menu-item-2615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children pp-has-submenu"><div class="pp-has-submenu-container"><a href="https://gpfirescience.org/all-resources/"><span class="menu-item-text">Resources</span></a><button type="button" class="pp-menu-toggle" aria-label="Toggle submenu for Resources" aria-haspopup="true" aria-expanded="false" aria-controls="sub-menu-2615"></button></div><ul id="sub-menu-2615" class="sub-menu">	<li id="menu-item-2506" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://gpfirescience.org/resources/?_resource_categories_widen=publications"><span class="menu-item-text">Publications</span></a></li>	<li id="menu-item-2507" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://gpfirescience.org/resources/?_resource_categories_widen=videos"><span class="menu-item-text">Videos</span></a></li>	<li id="menu-item-2505" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://gpfirescience.org/resources/?_resource_categories_widen=maps-tools-apps"><span class="menu-item-text">Maps, Tools, &#038; Apps</span></a></li>	<li id="menu-item-2504" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://gpfirescience.org/resources/?_resource_categories_widen=curriculum%2Ck-12-education%2Cadult-education"><span class="menu-item-text">Education &#038; Training</span></a></li>	<li id="menu-item-110079" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/wildfire/"><span class="menu-item-text">Wildfire</span></a></li>	<li id="menu-item-1592" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/fireworks/"><span class="menu-item-text">FireWorks</span></a></li>	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/virtual-tours/"><span class="menu-item-text">Virtual Tours</span></a></li>	<li id="menu-item-1474" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/fire-art/"><span class="menu-item-text">Fire Art</span></a></li>	<li id="menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/databases/"><span class="menu-item-text">Databases</span></a></li></ul></li><li id="menu-item-52798" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/fire-culture/"><span class="menu-item-text">Fire Culture</span></a></li><li id="menu-item-1243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children pp-has-submenu"><div class="pp-has-submenu-container"><a href="https://gpfirescience.org/community/"><span class="menu-item-text">Community</span></a><button type="button" class="pp-menu-toggle" aria-label="Toggle submenu for Community" aria-haspopup="true" aria-expanded="false" aria-controls="sub-menu-1243"></button></div><ul id="sub-menu-1243" class="sub-menu">	<li id="menu-item-2614" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/prescribed-burn-associations/"><span class="menu-item-text">Prescribed Burn Associations</span></a></li>	<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/agencies/"><span class="menu-item-text">Fire Organizations &#038; Agencies</span></a></li>	<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/fire-community/"><span class="menu-item-text">Fire Community Interviews &#038; Masters of Fire</span></a></li>	<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/listservs/"><span class="menu-item-text">Listservs</span></a></li>	<li id="menu-item-88694" class="menu-item menu-item-type-post_type menu-item-object-page"><a target="_blank" rel="noopener noreferrer" href="https://sway.cloud.microsoft/fCIo4o1mdYOLNzmS#new_tab"><span class="menu-item-text">RX Fire Lessons Learned</span></a></li></ul></li><li id="menu-item-789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children pp-has-submenu"><div class="pp-has-submenu-container"><a href="https://gpfirescience.org/news/"><span class="menu-item-text">News</span></a><button type="button" class="pp-menu-toggle" aria-label="Toggle submenu for News" aria-haspopup="true" aria-expanded="false" aria-controls="sub-menu-789"></button></div><ul id="sub-menu-789" class="sub-menu">	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://gpfirescience.org/announcements/"><span class="menu-item-text">Announcements</span></a></li>	<li id="menu-item-33788" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://gpfirescience.org/category/job-announcement/"><span class="menu-item-text">Job Announcement</span></a></li>	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/newsletters/"><span class="menu-item-text">Newsletters</span></a></li></ul></li><li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/contact/"><span class="menu-item-text">Contact</span></a></li></ul>	</nav>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</header>	<div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
+
+		<div class="fl-builder-content fl-builder-content-327 fl-builder-global-templates-locked" data-post-id="327"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5d7fb53904497 fl-row-default-height fl-row-align-center" data-node="5d7fb53904497">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5d7fb55069e12" data-node="5d7fb55069e12">
+			<div class="fl-col fl-node-5d7fb5506a175 fl-col-bg-color" data-node="5d7fb5506a175">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-5d7fb55069c59" data-node="5d7fb55069c59" aria-label="Heading">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+			<span class="fl-heading-text">Announcements</span>
+	</h1>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5d7fb5390449b" data-node="5d7fb5390449b">
+			<div class="fl-col fl-node-5d7fb5390449e fl-col-bg-color" data-node="5d7fb5390449e">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-post-grid fl-node-5d7fb5390449f" data-node="5d7fb5390449f" aria-label="Posts">
+	<div class="fl-module-content fl-node-content">
+			<div class="fl-post-feed" itemscope="itemscope" itemtype="https://schema.org/Blog">
+	<!--fwp-loop-->
+<div class="fl-post-feed-post fl-post-feed-image-beside fl-post-feed-image-fallback fl-post-align-left post-162437 post type-post status-publish format-standard hentry category-general" itemscope itemtype="https://schema.org/BlogPosting">
+
+	<meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="https://gpfirescience.org/2026-science-communicator-award/" content="2026 Science Communicator Award" /><meta itemprop="datePublished" content="2026-04-01" /><meta itemprop="dateModified" content="2026-05-11" /><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Great Plains Fire Science Exchange"></div><div itemscope itemprop="author" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://gpfirescience.org/author/gpfse/" /><meta itemprop="name" content="Great Plains Fire Science Exchange" /></div><div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter"><meta itemprop="interactionType" content="https://schema.org/CommentAction" /><meta itemprop="userInteractionCount" content="0" /></div>	<div class="fl-post-feed-image">
+	
+	<a href="https://gpfirescience.org/2026-science-communicator-award/" rel="bookmark" title="2026 Science Communicator Award" aria-hidden="true" tabindex="-1">
+		<img width="286" height="300" data-src="https://gpfirescience.org/wp-content/uploads/2019/09/Great-Plains-Fire-Science-Exchange-286x300.png" class="attachment-medium size-medium lazyload" alt="" decoding="async" data-srcset="https://gpfirescience.org/wp-content/uploads/2019/09/Great-Plains-Fire-Science-Exchange-286x300.png 286w, https://gpfirescience.org/wp-content/uploads/2019/09/Great-Plains-Fire-Science-Exchange.png 422w" data-sizes="(max-width: 286px) 100vw, 286px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 286px; --smush-placeholder-aspect-ratio: 286/300;" />	</a>
+
+	
+</div>
+
+		<div class="fl-post-feed-text">
+	
+		<div class="fl-post-feed-header">
+
+			<h2 class="fl-post-feed-title" itemprop="headline">
+				<a href="https://gpfirescience.org/2026-science-communicator-award/" rel="bookmark" title="2026 Science Communicator Award">2026 Science Communicator Award</a>
+			</h2>
+
+			
+						<div class="fl-post-feed-meta">
+																		<span class="fl-post-feed-date">
+						April 1, 2026					</span>
+											</div>
+			
+			
+			
+		</div>
+
+	
+	
+	
+		
+				<div class="fl-post-feed-content" itemprop="text">
+			<p><a href="https://gpfirescience.org/wp-content/uploads/2026/04/Application-form-April-2026-with-fillable-fields.pdf">Science Communicator Application form 2026</a></p>
+<p>&nbsp;</p>
+<p>Deadline: June 1st, 2026</p>
+<p>&nbsp;</p>
+					</div>
+		
+		
+	</div>
+
+	<div class="fl-clear"></div>
+</div>
+	</div>
+<div class="fl-clear"></div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5d7fb59453e86 fl-col-bg-color fl-col-small" data-node="5d7fb59453e86">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-widget fl-node-5d7fb59453c0a" data-node="5d7fb59453c0a" aria-label="Widget">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-widget">
+<div class="widget widget_search"><form aria-label="Search" method="get" role="search" action="https://gpfirescience.org/" title="Type and press Enter to search.">
+	<input aria-label="Search" type="search" class="fl-search-input form-control" name="s" placeholder="Search"  value="" onfocus="if (this.value === 'Search') { this.value = ''; }" onblur="if (this.value === '') this.value='Search';" />
+</form>
+</div></div>
+	</div>
+</div>
+<div class="fl-module fl-module-widget fl-node-5d7fb59c77705 sidebar-categories" data-node="5d7fb59c77705" aria-label="Widget">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-widget">
+<div class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+			<ul>
+					<li class="cat-item cat-item-1"><a href="https://gpfirescience.org/category/general/">General</a>
+</li>
+			</ul>
+
+			</div></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>
+	</div><!-- .fl-page-content -->
+	<footer class="fl-builder-content fl-builder-content-72 fl-builder-global-templates-locked" data-post-id="72" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5d7a91f580759 fl-row-default-height fl-row-align-center" data-node="5d7a91f580759">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5d7a91f58075b fl-col-group-equal-height fl-col-group-align-center" data-node="5d7a91f58075b">
+			<div class="fl-col fl-node-qa6g4zw5b1lr fl-col-bg-color fl-col-small" data-node="qa6g4zw5b1lr">
+	<div class="fl-col-content fl-node-content"></div>
+</div>
+			<div class="fl-col fl-node-5d7a91f58075f fl-col-bg-color" data-node="5d7a91f58075f">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5d7a91f580763" data-node="5d7a91f580763" aria-label="Text Editor">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>This regional fire exchange is one of 15 fire science exchanges sponsored by Joint Fire Science Program.</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5d7a91f58075d fl-col-bg-color fl-col-small" data-node="5d7a91f58075d">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5d7a9252873f6" data-node="5d7a9252873f6" aria-label="Photo">
+	<div class="fl-module-content fl-node-content">
+		<div role="figure" class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://www.firescience.gov/" target="_blank" rel="noopener" itemprop="url">
+					<img decoding="async" class="fl-photo-img wp-image-74 size-full lazyload" data-src="https://gpfirescience.org/wp-content/uploads/2019/09/Joint-Fire-Science-Program.png" alt="Joint-Fire-Science-Program" height="399" width="400" title="Joint-Fire-Science-Program"  itemprop="image" data-srcset="https://gpfirescience.org/wp-content/uploads/2019/09/Joint-Fire-Science-Program.png 400w, https://gpfirescience.org/wp-content/uploads/2019/09/Joint-Fire-Science-Program-150x150.png 150w, https://gpfirescience.org/wp-content/uploads/2019/09/Joint-Fire-Science-Program-300x300.png 300w" data-sizes="(max-width: 400px) 100vw, 400px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 400px; --smush-placeholder-aspect-ratio: 400/399;" />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-avxit9rhpkem" data-node="avxit9rhpkem">
+			<div class="fl-col fl-node-782q5sxwl469 fl-col-bg-color" data-node="782q5sxwl469">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-gc0o5d27p3rn" data-node="gc0o5d27p3rn" aria-label="Menu">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu">
+		<div class="fl-clear"></div>
+	<nav aria-label="Navigation Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-footer" class="menu fl-menu-horizontal fl-toggle-none"><li id="menu-item-117696" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/accessibility/">Accessibility</a></li><li id="menu-item-117697" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/cookies/">Cookies</a></li><li id="menu-item-117698" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/terms/">Terms</a></li><li id="menu-item-117699" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://gpfirescience.org/privacy/">Privacy</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5d7a91f58074f fl-row-default-height fl-row-align-center" data-node="5d7a91f58074f">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5d7a91f580753" data-node="5d7a91f580753">
+			<div class="fl-col fl-node-5d7a91f580756 fl-col-bg-color" data-node="5d7a91f580756">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5d7a91f580758" data-node="5d7a91f580758" aria-label="Text Editor">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: center;">© 2026 Great Plains Fire Science Exchange. All Rights Reserved. <a href="https://gpfirescience.org/privacy-policy/">Privacy Policy</a></p>
+<p style="text-align: center;">Built with ❤︎ on <a href="https://eons.llc" target="_blank" rel="noopener">Eons</a> <a href="https://web.infrastructure.tech" target="_blank" rel="noopener">Web Infrastructure</a></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</footer>	</div><!-- .fl-page -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/bb-theme-child/*","/wp-content/themes/bb-theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+			<script type="text/javascript">
+              var _paq = _paq || [];
+			                _paq.push(['trackPageView']);
+              (function () {
+                var u = "https://analytics2.wpmudev.com/";
+                _paq.push(['setTrackerUrl', u + 'track/']);
+                _paq.push(['setSiteId', '9639']);
+                var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.type  = 'text/javascript';
+                g.async = true;
+                g.defer = true;
+                g.src   = 'https://analytics.wpmucdn.com/matomo.js';
+                s.parentNode.insertBefore(g, s);
+              })();
+			</script>
+					<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<div style="display:none;"><a href="https://gpfirescience.org/e3c0c037ca840cbb" rel="nofollow">Secret Link</a></div><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script type="text/javascript">
+jQuery( function() {
+if ( window.Cookies ) {
+Cookies.set( "gp_easy_passthrough_session", "9647ae46407bf5d8d8c4429c719f63f5||1792711758||1792711398", {"expires": new Date( new Date().getTime() + 1800000 ),"path": "/","domain": "","SameSite": "Lax","secure": false} );
+}
+} );
+</script>
+<script id="wphb-5-js-before">
+var smushLazyLoadOptions = {"autoResizingEnabled":false,"autoResizeOptions":{"precision":5,"skipAutoWidth":true,"cdnBaseURL":""}};
+//# sourceURL=wphb-5-js-before
+</script>
+<script id="wphb-5-js" src="https://gpfirescience.org/static/59de4cb14bbbb060fc236066518b8c69.js"></script>
+<script id="hoverIntent-js" src="https://gpfirescience.org/wp-includes/js/hoverIntent.min.js?ver=1.10.2"></script>
+<script id="wphb-6-js-extra">
+var themeopts = {"medium_breakpoint":"992","mobile_breakpoint":"768","lightbox":"enabled","scrollTopPosition":"800"};
+//# sourceURL=wphb-6-js-extra
+</script>
+<script id="wphb-6-js" src="https://gpfirescience.org/static/94c6b545dc4f90925843e9c16ef523a1.js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://gpfirescience.org/wp-includes/js/wp-emoji-release.min.js?ver=d4fa56752c5519765a437db2b1ae8ef8"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://gpfirescience.org/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script id="gpfse-a11y-fixes">
+(function () {
+  function hasPositiveTabindex(el) {
+    var raw = el.getAttribute('tabindex');
+    if (raw === null) return false;
+    var value = parseInt(raw, 10);
+    return !isNaN(value) && value > 0;
+  }
+
+  function labelChosenSearch(selector, label) {
+    document.querySelectorAll(selector).forEach(function (input) {
+      input.setAttribute('aria-label', label);
+      input.setAttribute('title', label);
+    });
+  }
+
+  // Usercentrics injects an <h3> in its video-embed placeholder that skips the
+  // page's real heading order; it's filler chrome, not content, so demote it.
+  function demoteUcEmbeddingHeadings() {
+    document.querySelectorAll('.uc-embedding-wrapper > h3').forEach(function (h3) {
+      if (h3.dataset.gpfseDemoted) return;
+      var replacement = document.createElement('div');
+      replacement.className = h3.className;
+      replacement.innerHTML = h3.innerHTML;
+      replacement.dataset.gpfseDemoted = '1';
+      h3.replaceWith(replacement);
+    });
+  }
+
+  function applyGpfseA11yFixes() {
+    document.querySelectorAll('#gform_1 [tabindex]').forEach(function (el) {
+      if (hasPositiveTabindex(el)) el.removeAttribute('tabindex');
+    });
+
+    labelChosenSearch('#input_1_19_chosen input.chosen-search-input', 'Search PBA registration options');
+    labelChosenSearch('#input_4_8_chosen input.chosen-search-input', 'Search listserv options');
+
+    demoteUcEmbeddingHeadings();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyGpfseA11yFixes);
+  } else {
+    applyGpfseA11yFixes();
+  }
+
+  if (window.jQuery) {
+    window.jQuery(document).on('gform_post_render gform_page_loaded gform_post_conditional_logic', applyGpfseA11yFixes);
+  }
+
+  [100, 500, 1000, 2000].forEach(function (delay) {
+    window.setTimeout(applyGpfseA11yFixes, delay);
+  });
+
+  // Usercentrics loads its embed placeholders asynchronously per video block.
+  var ucObserver = new MutationObserver(demoteUcEmbeddingHeadings);
+  ucObserver.observe(document.body, { childList: true, subtree: true });
+})();
+</script>
+    <script id="gpfse-publication-accessibility" data-no-optimize="1">(function () {
+  'use strict';
+
+  function ready(callback) {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', callback, { once: true });
+    } else {
+      callback();
+    }
+  }
+
+  function publicationRoot() {
+    var hero = document.querySelector('.fl-builder-content[data-post-id] .gpe-publication-hero');
+    return hero ? hero.closest('.fl-builder-content[data-post-id]') : null;
+  }
+
+  function normalizedText(value) {
+    return String(value || '').replace(/\s+/g, ' ').trim();
+  }
+
+  function makeTitleWhitespaceExplicit(root) {
+    var title = root.querySelector('h1');
+    var lineBreak = title ? title.querySelector('br') : null;
+    if (lineBreak && lineBreak.nextSibling && !/^[\s\u00a0]/.test(lineBreak.nextSibling.textContent || '')) {
+      lineBreak.parentNode.insertBefore(document.createTextNode('\u00a0'), lineBreak.nextSibling);
+    }
+  }
+
+  function hasReplacementName(node, label) {
+    if (label === 'photo' || label === 'image') {
+      var image = node.tagName === 'IMG' ? node : node.querySelector('img[alt]');
+      return !!image && normalizedText(image.getAttribute('alt')) !== '';
+    }
+    return (label === 'heading' || label === 'text editor') && normalizedText(node.textContent) !== '';
+  }
+
+  function normalizeBuilderSemantics(root) {
+    var removableLabels = /^(photo|image|heading|text editor|button|social icons|search form|advanced menu|menu)$/i;
+    root.querySelectorAll('.fl-module[role="presentation"][aria-label]').forEach(function (module) {
+      var label = normalizedText(module.getAttribute('aria-label'));
+      if (!removableLabels.test(label)) return;
+      var replacement = hasReplacementName(module, label.toLowerCase())
+        || !!module.querySelector('a[href], button, input, select, textarea, nav, form, img[alt]');
+      if (replacement) {
+        module.removeAttribute('aria-label');
+        module.removeAttribute('role');
+      }
+    });
+
+    root.querySelectorAll('*').forEach(function (node) {
+      var label = normalizedText(node.getAttribute('aria-label')).toLowerCase();
+      if (hasReplacementName(node, label)) node.removeAttribute('aria-label');
+      if (/^(H[1-6]|FIGURE|FIGCAPTION|TABLE|CAPTION|THEAD|TBODY|TR|TH|TD|UL|OL|LI|A)$/.test(node.tagName)
+          && node.getAttribute('role') === 'presentation') {
+        node.removeAttribute('role');
+      }
+    });
+  }
+
+  function normalizePageBreakMarkers(root) {
+    root.querySelectorAll('.gpe-publication-page-break').forEach(function (marker) {
+      // This is a print-composition control, not document content. Keep the
+      // Separator out of both the browser and generated-PDF accessibility trees.
+      marker.setAttribute('aria-hidden', 'true');
+      marker.removeAttribute('aria-label');
+      marker.removeAttribute('role');
+    });
+  }
+
+  function normalizeSubmenuControls(postRoot) {
+    var postId = postRoot.getAttribute('data-post-id') || 'publication';
+    document.querySelectorAll('button.pp-menu-toggle[aria-controls]').forEach(function (button, index) {
+      var item = button.closest('li');
+      var submenu = item ? item.querySelector(':scope > ul.sub-menu') : null;
+      if (!submenu) return;
+      var controlId = 'gpe-publication-' + postId + '-submenu-' + String(index + 1);
+      submenu.id = controlId;
+      button.setAttribute('aria-controls', controlId);
+      button.removeAttribute('aria-haspopup');
+    });
+  }
+
+  function normalizeFigures(root) {
+    root.querySelectorAll('.fl-module-pp-image, .fl-module-photo').forEach(function (module) {
+      var existingFigure = module.querySelector('figure.gpe-publication-figure');
+      if (existingFigure) {
+        var existingCaption = existingFigure.querySelector('figcaption');
+        if (existingCaption) existingCaption.classList.add('gpe-publication-caption');
+        return;
+      }
+      var container = module.querySelector('.pp-photo-container, .fl-photo');
+      var image = module.querySelector('img');
+      if (!container || !image) return;
+
+      var alternative = normalizedText(image.getAttribute('alt'));
+      if (!alternative) return;
+      var sourceCaption = module.querySelector('.pp-photo-caption, .fl-photo-caption');
+      var figure = document.createElement('figure');
+      figure.className = 'gpe-publication-figure';
+      figure.setAttribute('aria-label', alternative);
+      container.parentNode.insertBefore(figure, container);
+      figure.appendChild(container);
+
+      if (sourceCaption && normalizedText(sourceCaption.textContent) !== '') {
+        var caption = document.createElement('figcaption');
+        caption.className = sourceCaption.className;
+        caption.classList.add('gpe-publication-caption');
+        while (sourceCaption.firstChild) caption.appendChild(sourceCaption.firstChild);
+        sourceCaption.remove();
+        figure.appendChild(caption);
+      } else if (sourceCaption) {
+        sourceCaption.remove();
+      }
+
+      image.setAttribute('alt', '');
+      image.setAttribute('role', 'presentation');
+      image.setAttribute('aria-hidden', 'true');
+      image.removeAttribute('title');
+    });
+  }
+
+  function normalizeTables(root) {
+    var readyCount = 0;
+    root.querySelectorAll('.gpe-publication-table-unit table').forEach(function (table) {
+      var unit = table.closest('.gpe-publication-table-unit');
+      var label = unit ? unit.querySelector('.gpe-publication-figure-label') : null;
+      var caption = table.querySelector(':scope > caption');
+      if (!caption && label && normalizedText(label.textContent) !== '') {
+        caption = document.createElement('caption');
+        caption.className = 'gpe-publication-figure-label';
+        while (label.firstChild) caption.appendChild(label.firstChild);
+        label.remove();
+        table.insertBefore(caption, table.firstChild);
+      }
+      if (caption) caption.classList.add('gpe-publication-caption');
+      table.querySelectorAll('thead th').forEach(function (cell) {
+        cell.setAttribute('scope', 'col');
+      });
+      table.querySelectorAll('tbody th').forEach(function (cell) {
+        cell.setAttribute('scope', 'row');
+      });
+      if (caption) readyCount += 1;
+    });
+    return readyCount;
+  }
+
+  function normalizeTableOfContents(root) {
+    root.querySelectorAll('.gpe-publication-toc-row .pp-toc-container').forEach(function (toc, index) {
+      if (toc.tagName !== 'NAV') toc.setAttribute('role', 'navigation');
+      if (!toc.hasAttribute('aria-label')) toc.setAttribute('aria-label', 'Article contents');
+      var module = toc.closest('.fl-module-pp-toc');
+      if (module) {
+        module.removeAttribute('aria-label');
+        module.removeAttribute('role');
+      }
+      var header = toc.querySelector('.pp-toc-header');
+      var body = toc.querySelector('.pp-toc-body');
+      if (!header || !body) return;
+      var postId = root.getAttribute('data-post-id') || 'publication';
+      body.id = body.id || 'gpe-publication-' + postId + '-toc-' + String(index + 1);
+      header.setAttribute('role', 'button');
+      header.setAttribute('tabindex', '0');
+      header.setAttribute('aria-controls', body.id);
+      var reflectState = function () {
+        header.setAttribute('aria-expanded', header.classList.contains('pp-toc-collapsed') ? 'false' : 'true');
+      };
+      reflectState();
+      if (!header.hasAttribute('data-gpe-keyboard-control')) {
+        header.setAttribute('data-gpe-keyboard-control', 'true');
+        header.addEventListener('keydown', function (event) {
+          if (event.key !== 'Enter' && event.key !== ' ') return;
+          event.preventDefault();
+          header.click();
+        });
+        new MutationObserver(reflectState).observe(header, { attributes: true, attributeFilter: ['class'] });
+      }
+    });
+  }
+
+  function normalize(root) {
+    if (!root) return null;
+    document.documentElement.lang = document.documentElement.lang || 'en-US';
+    makeTitleWhitespaceExplicit(root);
+    normalizeFigures(root);
+    normalizeTables(root);
+    normalizeTableOfContents(root);
+    normalizePageBreakMarkers(root);
+    normalizeBuilderSemantics(root);
+    normalizeBuilderSemantics(document);
+    normalizeSubmenuControls(root);
+    root.setAttribute('data-gpe-publication-accessibility-ready', 'true');
+    return root;
+  }
+
+  window.gpfsePublicationAccessibility = { normalize: normalize };
+  ready(function () { normalize(publicationRoot()); });
+}());
+</script><script>
+(function($) {
+    $(document).on('facetwp-refresh', function() {
+        if (FWP.loaded) { // after the initial pageload
+            FWP.parseFacets(); // load the values
+            FWP.setHash(); // set the new URL
+            location.reload();
+            return false;
+        }
+     });
+})(jQuery);
+</script></body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 9090 objects (11 MB) from Redis using Predis (v2.4.1).
+-->
